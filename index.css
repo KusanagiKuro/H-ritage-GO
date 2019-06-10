@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+}
+
+.heritage_go_logo {
+    width: 100px;
+    height: auto;
+}
+
+.primary_area_name {
+    font-size: 18px;
+}
+
+.secondary_area_name {
+    font-size: 14px;
+}
+
+.fa-compass {
+    font-size: 24px;
+}
+
+.login_button {
+    font-family: Arial;
+    font-size: 14px;
+    border-color: #e6e6e6;
+}
